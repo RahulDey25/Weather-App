@@ -1,13 +1,11 @@
 ## Checkout real-time weather updates! Explore our live weather app now!
 
-Discover the Weather
-
-[Weather App Live Demo]()
+[Discover the Weather](https://weather-evku2ziiu-rahul-deys-projects.vercel.app/)
 
 
 ## Git Repository
 
-You can find the source code for this Todo App on GitHub:
+You can find the source code for this Weather App on GitHub:
 
 [Todo App Repository](https://github.com/RahulDey25/Weather-App)
 
