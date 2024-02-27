@@ -1,3 +1,18 @@
+## Checkout real-time weather updates! Explore our live weather app now!
+
+Discover the Weather
+
+[Weather App Live Demo]()
+
+
+## Git Repository
+
+You can find the source code for this Todo App on GitHub:
+
+[Todo App Repository](https://github.com/RahulDey25/Weather-App)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
