@@ -1,6 +1,6 @@
 ## Checkout real-time weather updates! Explore our live weather app now!
 
-[Discover the Weather](https://weather-evku2ziiu-rahul-deys-projects.vercel.app/)
+[Discover the Weather](https://weather-app-nine-virid-79.vercel.app/)
 
 
 ## Git Repository
